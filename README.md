@@ -34,3 +34,7 @@ Project Pemrograman Web 1.
 ### Delete Product
 ![Delete Product](screenshots/delete-product.png)
 
+### Delete Category
+![Delete Category](delete-category.png)
+
+
