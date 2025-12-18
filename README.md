@@ -1,7 +1,6 @@
 # CRUD REST API Toko Kecantikan
 
-Project ini merupakan REST API sederhana menggunakan Node.js dan Express.js
-untuk mengelola data kategori dan produk pada toko kecantikan.
+Project Pemrograman Web 1.
 
 ## Fitur
 - CRUD Categories (Skincare, Makeup, dll)
@@ -34,3 +33,4 @@ untuk mengelola data kategori dan produk pada toko kecantikan.
 
 ### Delete Product
 ![Delete Product](screenshots/delete-product.png)
+
